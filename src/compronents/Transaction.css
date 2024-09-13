@@ -1,0 +1,16 @@
+.Item-list{
+    list-style-type: none;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.Item-list li{
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 12);
+    padding: 10px;
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    position: relative;
+    border-radius: 3px;
+}
